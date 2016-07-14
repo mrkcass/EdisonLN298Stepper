@@ -8,7 +8,10 @@ Description:
 
 Hardware: 
    
-      Intel Edsion, Arduino breakout board, OSEPP LN298N stepper motor driver, 4 wire bipolor sth (brand) stepper motor.
+      Intel Edsion,
+      Arduino breakout board,
+      OSEPP LN298N stepper motor driver,
+      4 wire bipolor sth (brand) stepper motor.
 
 
 Software: 
